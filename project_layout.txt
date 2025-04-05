@@ -1,0 +1,14 @@
+--- Folder Layout ---
+.DS_Store
+[.git] (...)
+.gitignore
+README.md
+crawler.py
+[output] (...)
+sites.txt
+[venv]
+    ├── .gitignore
+    ├── [bin] (...)
+    ├── [include] (...)
+    ├── [lib] (...)
+    └── pyvenv.cfg

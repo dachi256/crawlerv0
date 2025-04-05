@@ -1,0 +1,8 @@
+nytimes.com
+washingtonpost.com
+theguardian.com
+bbc.com
+cnn.com
+reuters.com
+apnews.com
+aljazeera.com
